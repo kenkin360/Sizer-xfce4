@@ -1,5 +1,7 @@
 # XFCE4 Sizer (Unofficial)
 
+![screenshot](https://github.com/kenkin360/Sizer-xfce4/blob/main/images/captrue.jpg)
+
 This project is an XFCE4 tool inspired by [Sizer](https://www.brianapps.net/sizer/).  
 Sizer on Windows allows users to quickly resize windows to specific dimensions.  
 This project attempts to bring similar functionality to the XFCE desktop.
