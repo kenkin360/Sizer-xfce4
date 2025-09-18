@@ -1,7 +1,7 @@
 [Sizer]: https://www.brianapps.net/sizer/
 [Brian Apps]: https://www.brianapps.net/
 [systray]: https://www.brianapps.net/sizer/userguide.html#systray
-[screenshot]: https://github.com/kenkin360/Sizer-Xfce4/blob/main/images/captrue.jpg
+[screenshot]: https://github.com/kenkin360/Sizer-Xfce4/blob/main/images/screenshot.jpg
 [Sizer for Xfce 4]: https://github.com/kenkin360/Sizer-Xfce4
 
 # Sizer for Xfce 4
