@@ -49,7 +49,7 @@ git clone https://github.com/kenkin360/Sizer-xfce4
 
 ## Disclaimer
 - This project has only been tested on **Xfce 4**. It may work on other Linux desktop environments, but users will need to test on their own.
-- This project is an independent utility and is not affiliated with [BrianApps], the original [Sizer], nor is it part of the official Xfce project.
+- This project is an independent utility and is not affiliated with [Brian Apps], the original [Sizer], nor is it part of the official Xfce project.
 
 ## License
 MIT
